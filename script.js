@@ -42,3 +42,37 @@ console.log(typeof undefined);  //undefined
 console.log(1 < 2 < 3); // true goes from left to right 1 < 2 -> true now true < 3 means 1 < 3 true
 console.log(3 > 2 > 1);// false  3 > 2 -> true now true > 1 means 1 > 1 it gives false
 
+if([12] == true){
+    console.log("absent");
+}
+else{
+    console.log("present")
+}
+
+let obj = {
+    a: {
+        b: undefined
+    }
+}
+console.log(obj.a?.b?.c?.d??"anshul")   //optional chaining and nullish coalescing
+//optional chaining - if we want to access something which is not present in the object then it throws an error but with using
+//optional chaining (?.) even if it is not present even then it will return undefined not error like in above eg. a is present  and b is undefined so c and d will also be undefined then it becomes undefined ?? "anshul"
+
+//nullish coalescing - if left side is null or undefined then it returns right side value
+
+
+
+// var abc = 25
+// function f(){}
+// if(true){
+//     abc = abc + typeof f;
+// }
+// console.log(abc);       //25function type of funciton is function
+
+
+var abc = 25
+if(function f(){}){
+    abc = abc + typeof f;
+}
+console.log(abc); // 25undefined  here type of f will be undefined as it is not defined outside 
+
