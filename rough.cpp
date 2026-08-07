@@ -306,3 +306,12 @@ static const int M = 1e9 + 7;
         }
         return (int)ans;
     }©leetcode
+
+
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    int a = 10;
+    int b = 4;
+    if(a > 18 && b < 10)
+}
