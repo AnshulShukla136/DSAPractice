@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AnshulShukla136/DSAPractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AnshulShukla136/DSAPractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
