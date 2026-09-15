@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0486-predict-the-winner) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/0015-3sum) |
 | [0844-backspace-string-compare](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
