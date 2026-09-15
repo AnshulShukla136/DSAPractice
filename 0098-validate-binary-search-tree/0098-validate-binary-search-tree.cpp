@@ -16,14 +16,10 @@ public:
          if(root -> val <= l || root -> val >= r) {
             return false;
         }
-        bool leftTree = solve(root -> left, l, root -> val);
-        bool rightTree = solve(root -> right, root -> val, r); 
-        return leftTree && rightTree;
+        return solve(root -> left, l, root -> val) && solve(root -> right, root -> val, r);
     }
     bool isValidBST(TreeNode* root) {
         if(!root) return true;
-        bool l = solve(root -> left, LLONG_MIN, root -> val);
-        bool r = solve(root -> right, root -> val, LLONG_MAX);
-        return l && r;
+        return solve(root, LLONG_MIN, LLONG_MAX);
     }
 };
