@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AnshulShukla136/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -142,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AnshulShukla136/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AnshulShukla136/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0877-stone-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AnshulShukla136/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
