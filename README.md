@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AnshulShukla136/DSAPractice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AnshulShukla136/DSAPractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AnshulShukla136/DSAPractice/tree/master/0098-validate-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
