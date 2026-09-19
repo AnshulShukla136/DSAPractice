@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AnshulShukla136/DSAPractice/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AnshulShukla136/DSAPractice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/AnshulShukla136/DSAPractice/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/AnshulShukla136/DSAPractice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
