@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AnshulShukla136/DSAPractice/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/AnshulShukla136/DSAPractice/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/AnshulShukla136/DSAPractice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
