@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnshulShukla136/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/AnshulShukla136/DSAPractice/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0844-backspace-string-compare) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnshulShukla136/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AnshulShukla136/DSAPractice/tree/master/0383-ransom-note) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnshulShukla136/DSAPractice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
