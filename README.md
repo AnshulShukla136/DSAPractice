@@ -220,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/AnshulShukla136/DSAPractice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/AnshulShukla136/DSAPractice/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/AnshulShukla136/DSAPractice/tree/master/0607-sales-person) |
+| [1075-project-employees-i](https://github.com/AnshulShukla136/DSAPractice/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
