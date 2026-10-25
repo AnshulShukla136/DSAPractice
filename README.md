@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshulShukla136/DSAPractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/AnshulShukla136/DSAPractice/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/AnshulShukla136/DSAPractice/tree/master/3871-count-commas-in-range-ii) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/AnshulShukla136/DSAPractice/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Number Theory
 |  |
 | ------- |
