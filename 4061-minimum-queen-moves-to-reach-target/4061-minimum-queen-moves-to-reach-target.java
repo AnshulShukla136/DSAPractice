@@ -3,9 +3,6 @@ class Solution {
         if(source[0] == target[0] && source[1] == target[1]){
             return 0;
         }
-        if(source[0] + source[1] == target[0] + target[1]){
-            return 1;
-        }
         if(source[0] == target[0] || source[1] == target[1]){
             return 1;
         }
