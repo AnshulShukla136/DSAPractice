@@ -6,7 +6,7 @@ class Solution {
             sb.append('.');
         }
         ans.add(sb.toString());
-        sb.delete(0, sb.length());
+        sb.setLength(0);
         for(int i = 1; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(j == n - 1){
@@ -17,7 +17,7 @@ class Solution {
                 }
             }
             ans.add(sb.toString());
-            sb.delete(0, sb.length());
+            sb.setLength(0);
         }
         String[] arr = new String[ans.size()];
 
