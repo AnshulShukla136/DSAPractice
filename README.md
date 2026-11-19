@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnshulShukla136/DSAPractice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AnshulShukla136/DSAPractice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnshulShukla136/DSAPractice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshulShukla136/DSAPractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnshulShukla136/DSAPractice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnshulShukla136/DSAPractice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshulShukla136/DSAPractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnshulShukla136/Imp-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
